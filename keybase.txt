@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vkhromov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vkhromov.github.io
+  * I am vkhromov (https://keybase.io/vkhromov) on keybase.
+  * I have a public key ASDsGEo3BOjnCfSCSBe1tTgHh-ksuzz_cGAJyVJUD2kYvwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ec184a3704e8e709f4824817b5b5380787e92cbb3cff706009c952540f6918bf0a",
+      "host": "keybase.io",
+      "kid": "0120ec184a3704e8e709f4824817b5b5380787e92cbb3cff706009c952540f6918bf0a",
+      "uid": "ac0ddb2d075a6f17aff915ef35ee2419",
+      "username": "vkhromov"
+    },
+    "merkle_root": {
+      "ctime": 1549134514,
+      "hash": "6f623c77c6f13bd0eac51631fd08b2289cc5b2703bf6f9732782e640075d6bb6dbcedd01caade2bbffb8376d8e3e250ee79848555f090bb9198bae05ff07726c",
+      "hash_meta": "889e76e98b8ea2d852d808a04f202ac5db737f367289d1d33414cef27f6d20e7",
+      "seqno": 4684871
+    },
+    "service": {
+      "entropy": "TSC91znlrWsSTg99wFxw3gS5",
+      "hostname": "vkhromov.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1549134547,
+  "expire_in": 504576000,
+  "prev": "7229aa7bddf24fa14769b53ad010c737766d9e306c58e3e5f08e4c0b6e5b1306",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7BhKNwTo5wn0gkgXtbU4B4fpLLs8/3BgCclSVA9pGL8Kp3BheWxvYWTESpcCCcQgcimqe93yT6FHabU60BDHN3ZtnjBsWOPl8I5MC25bEwbEIAMLEDNHexMDvkIJ4Qg5RFuh9MmWrIxO3zdxDvmdpMzZAgHCo3NpZ8RA2049TJRjsecn1UmBUoLGK3XPOd28N5pfJS6fE+kNk9KoSf3e/wHVLFNRVr+hr49i51ZbSRJflGgI0bu84/AZBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGYeuspfkzQ9MurQF5dESzsrYXNCvRJ5BYQuUNwkQtL0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vkhromov
+
+==================================================================
